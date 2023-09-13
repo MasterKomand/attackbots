@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-pathFile="ATTACK-BOTS" 
+pathFile="attackbots" 
 pkg install python
 cd ~/../usr/bin 
 # команда
